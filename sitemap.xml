@@ -2,23 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://manasviburramukku.github.io/devlog/</loc>
+    <lastmod>2025-10-10T20:03:47+05:30</lastmod>
+  </url><url>
+    <loc>https://manasviburramukku.github.io/</loc>
+    <lastmod>2025-10-10T20:03:47+05:30</lastmod>
+  </url><url>
+    <loc>https://manasviburramukku.github.io/posts/october/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://manasviburramukku.github.io/posts/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://manasviburramukku.github.io/tags/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://manasviburramukku.github.io/tags/untagged/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://manasviburramukku.github.io/about/</loc>
     <lastmod>2025-10-10T02:11:32+05:30</lastmod>
   </url><url>
-    <loc>https://manasviburramukku.github.io/</loc>
-    <lastmod>2025-10-10T02:11:32+05:30</lastmod>
-  </url><url>
     <loc>https://manasviburramukku.github.io/posts/firstpost/</loc>
-    <lastmod>2025-10-10T01:27:48+05:30</lastmod>
-  </url><url>
-    <loc>https://manasviburramukku.github.io/posts/</loc>
-    <lastmod>2025-10-10T01:27:48+05:30</lastmod>
-  </url><url>
-    <loc>https://manasviburramukku.github.io/tags/</loc>
-    <lastmod>2025-10-10T01:27:48+05:30</lastmod>
-  </url><url>
-    <loc>https://manasviburramukku.github.io/tags/untagged/</loc>
-    <lastmod>2025-10-10T01:27:48+05:30</lastmod>
+    <lastmod>2025-10-09T01:27:48+05:30</lastmod>
   </url><url>
     <loc>https://manasviburramukku.github.io/categories/</loc>
   </url>

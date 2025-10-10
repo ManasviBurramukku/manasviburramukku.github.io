@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 	<channel>
-		<title>Posts on My Blog</title>
+		<title>Posts on Manasvi&#39;s Blog</title>
 		<link>https://manasviburramukku.github.io/posts/</link>
-		<description>Recent content in Posts on My Blog</description>
+		<description>Recent content in Posts on Manasvi&#39;s Blog</description>
 		<generator>Hugo -- 0.151.0</generator>
 		<language>en-us</language>
-		<lastBuildDate>Fri, 10 Oct 2025 01:27:48 +0530</lastBuildDate>
+		<lastBuildDate>Fri, 10 Oct 2025 00:00:00 +0000</lastBuildDate>
 		<atom:link href="https://manasviburramukku.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		
 		<item>
+			<title>October</title>
+			<link>https://manasviburramukku.github.io/posts/october/</link>
+			<pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate><guid>https://manasviburramukku.github.io/posts/october/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<p>day1 -this is the content.</p>
+<h1 id="day2-hahaha">day2 hahaha<a href="#day2-hahaha" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-java" data-lang="java"><span style="display:flex;"><span><span style="color:#66d9ef">int</span> i<span style="color:#f92672">=</span>0;
+</span></span></code></pre></div>]]></content>
+		</item>
+		
+		<item>
 			<title>My First post</title>
 			<link>https://manasviburramukku.github.io/posts/firstpost/</link>
-			<pubDate>Fri, 10 Oct 2025 01:27:48 +0530</pubDate><guid>https://manasviburramukku.github.io/posts/firstpost/</guid>
+			<pubDate>Thu, 09 Oct 2025 01:27:48 +0530</pubDate><guid>https://manasviburramukku.github.io/posts/firstpost/</guid>
 			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<p>day1 -this is the content.</p>
 <h1 id="day2-hahaha">day2 hahaha<a href="#day2-hahaha" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
